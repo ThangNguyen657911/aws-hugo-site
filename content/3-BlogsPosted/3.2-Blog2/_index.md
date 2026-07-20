@@ -28,7 +28,7 @@ A classic AWS Best Practice that we should adopt immediately is separating the P
 
 ## Event-Driven Pipeline Architecture
 
-![Blog2](/images/blog2.jpg)
+![Blog2](images/blog2.jpg)
 
 The system operates completely on an event-driven mechanism by combining AWS's optimized Serverless services:
 
