@@ -1,6 +1,7 @@
-baseURL = 'http://localhost:1313/'
+baseURL = 'https://ThangNguyen657911.github.io/aws-hugo-site/'
 relativeURLs = false
-canonifyURLs = false
+
+canonifyURLs = true
 defaultContentLanguage = "en"
 
 # Change the default theme to be use when building the site with Hugo
