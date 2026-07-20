@@ -1,4 +1,4 @@
-baseURL = 'https://ThangNguyen657911.github.io/aws-hugo-site/'
+baseURL = 'http://localhost:1313/'
 relativeURLs = false
 canonifyURLs = false
 defaultContentLanguage = "en"
