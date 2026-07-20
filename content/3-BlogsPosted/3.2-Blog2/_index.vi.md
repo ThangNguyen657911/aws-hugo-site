@@ -28,7 +28,7 @@ Một Best Practice kinh điển của AWS mà chúng ta nên áp dụng ngay l�
 
 ## Kiến trúc hệ thống Tự động hóa (Event-Driven Pipeline)
 
-![Blog2](/images/blog2.jpg)
+![Blog2](/images/Blog2.jpg)
 
 Hệ thống vận hành hoàn toàn theo cơ chế hướng sự kiện (Event-Driven) bằng cách kết hợp các dịch vụ Serverless tối ưu của AWS:
 
