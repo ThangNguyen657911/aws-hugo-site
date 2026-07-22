@@ -11,6 +11,8 @@ pre: " <b> 3.1. </b> "
 
 # TỐI ƯU HÓA CHI PHÍ VÀ ĐỘ TIN CẬY BIG DATA: TRIỂN KHAI REMOTE SHUFFLE SERVICE TRÊN AMAZON EMR VỚI APACHE CELEBORN
 
+Link post bài: [Blog1](https://www.facebook.com/share/p/1TAk7UBeU9/).
+
 Trong quá trình tối ưu hóa các hệ thống xử lý dữ liệu lớn (Big Data) chạy Apache Spark trên AWS, mình đã đúc kết được một giải pháp giải quyết triệt để bài toán đánh đổi giữa chi phí và độ tin cậy của hệ thống: **Sử dụng Apache Celeborn làm Remote Shuffle Service (RSS) trên Amazon EMR**.
 
 ## Những "nỗi đau" kinh điển khi xử lý Spark Shuffle lớn

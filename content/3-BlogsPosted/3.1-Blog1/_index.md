@@ -11,6 +11,8 @@ pre: " <b> 3.1. </b> "
 
 # OPTIMIZING BIG DATA COST AND RELIABILITY: DEPLOYING REMOTE SHUFFLE SERVICE ON AMAZON EMR WITH APACHE CELEBORN
 
+Link post blog: [Blog1](https://www.facebook.com/share/p/1TAk7UBeU9/).
+
 During the process of optimizing Big Data processing systems running Apache Spark on AWS, I have synthesized a solution that completely resolves the trade-off between infrastructure cost and system reliability: **Using Apache Celeborn as a Remote Shuffle Service (RSS) on Amazon EMR**.
 
 ## The Classic "Pain Points" of Large-Scale Spark Shuffles

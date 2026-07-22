@@ -11,6 +11,8 @@ pre: " <b> 3.2. </b> "
 
 # TỰ ĐỘNG HÓA PATCH TESTING TRÊN AMAZON REDSHIFT: GIẢI PHÁP BẢO VỆ PRODUCTION WORKLOADS TUYỆT ĐỐI
 
+Link post blog: [Blog2](https://www.facebook.com/share/p/1DPgrEZ2Qd/).
+
 Khi quản lý hệ thống dữ liệu lớn trên AWS, cụ thể là Amazon Redshift, việc cập nhật các bản vá (patch) là bắt buộc để tối ưu hiệu năng và cập nhật tính năng mới. Tuy nhiên, một số bản phát hành có thể thay đổi hành vi hệ thống, gây lỗi tương thích công cụ hoặc suy giảm hiệu năng ngoài ý muốn.
 
 Để giải quyết triệt để bài toán này, mình xin chia sẻ giải pháp xây dựng đường ống tự động hóa kiểm thử bản vá (**Automated Patch Testing pipeline**) cho Amazon Redshift, giúp tạo ra một "cánh cổng" kiểm định an toàn trước khi patch được áp dụng lên môi trường Production.

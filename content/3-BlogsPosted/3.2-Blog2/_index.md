@@ -11,6 +11,8 @@ pre: " <b> 3.2. </b> "
 
 # AUTOMATING PATCH TESTING ON AMAZON REDSHIFT: THE ULTIMATE SOLUTION TO PROTECT PRODUCTION WORKLOADS
 
+Link post blog: [Blog2](https://www.facebook.com/share/p/1DPgrEZ2Qd/).
+
 When managing large-scale data systems on AWS, specifically Amazon Redshift, patch updates are mandatory to optimize performance and unlock new features. However, some releases can alter system behavior, trigger tool compatibility bugs, or cause unintended performance regressions.
 
 To completely solve this pain point, I would like to share a solution for building an **Automated Patch Testing pipeline** for Amazon Redshift. This pipeline acts as a secure "gatekeeper" to validate updates before they ever touch your Production environment.

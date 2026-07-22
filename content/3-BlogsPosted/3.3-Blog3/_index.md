@@ -11,6 +11,8 @@ pre: " <b> 3.3. </b> "
 
 # BUILDING A LARGE-SCALE REAL-TIME ANOMALY DETECTION SYSTEM WITH RAZORPAY AND AMAZON MSK
 
+Link post blog: 22/07/2026.
+
 When operating large-scale financial and payment systems, every second of delay in detecting anomalies means failed transactions, lost revenue, and eroded customer trust.
 
 Today, I would like to share the architecture of the **ADA (Anomaly Detection and Alerting)** system – the real-time anomaly detection and fraud prevention platform of Razorpay (one of India's largest Fintechs) built on **Amazon Managed Streaming for Apache Kafka (Amazon MSK)** and **Apache Flink**. This system helps Razorpay process over 5 billion events per day, detect incidents in under 30 seconds, and cut monitoring costs by up to 80%.
