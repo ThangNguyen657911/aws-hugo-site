@@ -11,6 +11,8 @@ pre: " <b> 3.3. </b> "
 
 # XÂY DỰNG HỆ THỐNG PHÁT HIỆN BẤT THƯỜNG THỜI GIAN THỰC QUY MÔ LỚN CÙNG RAZORPAY VÀ AMAZON MSK
 
+Link post blog: 22/07/2026.
+
 ! Khi vận hành các hệ thống tài chính - thanh toán quy mô lớn, mỗi giây phát hiện chậm trễ các hành vi bất thường (anomaly) đồng nghĩa với việc giao dịch thất bại, doanh thu bị mất và niềm tin của khách hàng bị xói mòn. 
 
 Hôm nay, mình xin chia sẻ kiến trúc hệ thống **ADA (Anomaly Detection and Alerting)** – nền tảng phát hiện bất thường và ngăn ngừa gian lận theo thời gian thực của Razorpay (một trong những Fintech lớn nhất Ấn Độ) được xây dựng trên nền tảng **Amazon Managed Streaming for Apache Kafka (Amazon MSK)** và **Apache Flink**. Hệ thống này giúp Razorpay xử lý hơn 5 tỷ event mỗi ngày, phát hiện sự cố trong dưới 30 giây và cắt giảm tới 80% chi phí giám sát.
