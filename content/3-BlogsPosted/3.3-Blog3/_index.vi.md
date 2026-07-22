@@ -11,6 +11,7 @@ pre: " <b> 3.3. </b> "
 
 # XÂY DỰNG HỆ THỐNG PHÁT HIỆN BẤT THƯỜNG THỜI GIAN THỰC QUY MÔ LỚN CÙNG RAZORPAY VÀ AMAZON MSK
 
+
 Link post blog: 22/07/2026.
 
 ! Khi vận hành các hệ thống tài chính - thanh toán quy mô lớn, mỗi giây phát hiện chậm trễ các hành vi bất thường (anomaly) đồng nghĩa với việc giao dịch thất bại, doanh thu bị mất và niềm tin của khách hàng bị xói mòn. 
